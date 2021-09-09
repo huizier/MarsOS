@@ -1,3 +1,3 @@
 # MarsOS
-Open Source Collaboration
-A new line of code
+- Open Source Collaboration
+- A new line of code
